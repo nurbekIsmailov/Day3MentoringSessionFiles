@@ -2,18 +2,16 @@
 
 Sunday 6-8PM mentoring with Nurbek
 
-TestNG quick overview
+TestNG quick overview, grouping test cases (Smoke, Regression, etc)
 How to run failed testcases
+
+https://www.slideshare.net/harithakannan/testng-38637544
+
 
 http://testng.org/doc/index.html
 http://learn-automation.com/group-test-cases-in-selenium/
-http://learn-automation.com/advance-selenium-reporting-with-screenshots-2/
+
 https://www.tutorialspoint.com/testng/testng_tutorial.pdf
-
-http://extentreports.com/community/
-
-
-
 
 
 
